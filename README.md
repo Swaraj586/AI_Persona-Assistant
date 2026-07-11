@@ -1,4 +1,4 @@
-# AI Persona Assistant (RAG + Session Memory)
+# AI Persona Assistant
 
 An interactive, production-ready FastAPI backend application that simulates a personal AI clone/twin using Retrieval-Augmented Generation (RAG). The system consumes structured raw data, vectors it dynamically via Google Gemini Embeddings, handles similarity querying using a FAISS index, and responds identically to the user's voice using Google's `gemini-3.1-flash-lite` model. 
 
