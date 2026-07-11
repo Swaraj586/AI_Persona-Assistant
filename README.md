@@ -70,6 +70,7 @@ JSON success response:
 ```
 ### 2. DELETE `/cleanup_sessions`
 Forces immediate eviction and structural teardown of a designated session profile data cache.
+
 Query parameter structure: `?session_id=user_session_alpha_99`
 
 ### 3. GET `/health`
